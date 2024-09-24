@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("diceproject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+193d23ece6226dc7fa3befa29bffa41c96b7b9e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("diceproject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("diceproject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

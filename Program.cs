@@ -7,6 +7,10 @@
         {
             static void Main(string[] args)
             {
+
+
+
+
                 Random rand = new Random();
 
                 int Totallt = 0;
