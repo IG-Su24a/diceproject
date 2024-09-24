@@ -1,0 +1,14 @@
+C:\Users\ida.gelinder\source\repos\programmering\diceproject\diceproject\bin\Debug\net8.0\diceproject.exe
+C:\Users\ida.gelinder\source\repos\programmering\diceproject\diceproject\bin\Debug\net8.0\diceproject.deps.json
+C:\Users\ida.gelinder\source\repos\programmering\diceproject\diceproject\bin\Debug\net8.0\diceproject.runtimeconfig.json
+C:\Users\ida.gelinder\source\repos\programmering\diceproject\diceproject\bin\Debug\net8.0\diceproject.dll
+C:\Users\ida.gelinder\source\repos\programmering\diceproject\diceproject\bin\Debug\net8.0\diceproject.pdb
+C:\Users\ida.gelinder\source\repos\programmering\diceproject\diceproject\obj\Debug\net8.0\diceproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ida.gelinder\source\repos\programmering\diceproject\diceproject\obj\Debug\net8.0\diceproject.AssemblyInfoInputs.cache
+C:\Users\ida.gelinder\source\repos\programmering\diceproject\diceproject\obj\Debug\net8.0\diceproject.AssemblyInfo.cs
+C:\Users\ida.gelinder\source\repos\programmering\diceproject\diceproject\obj\Debug\net8.0\diceproject.csproj.CoreCompileInputs.cache
+C:\Users\ida.gelinder\source\repos\programmering\diceproject\diceproject\obj\Debug\net8.0\diceproject.dll
+C:\Users\ida.gelinder\source\repos\programmering\diceproject\diceproject\obj\Debug\net8.0\refint\diceproject.dll
+C:\Users\ida.gelinder\source\repos\programmering\diceproject\diceproject\obj\Debug\net8.0\diceproject.pdb
+C:\Users\ida.gelinder\source\repos\programmering\diceproject\diceproject\obj\Debug\net8.0\diceproject.genruntimeconfig.cache
+C:\Users\ida.gelinder\source\repos\programmering\diceproject\diceproject\obj\Debug\net8.0\ref\diceproject.dll
